@@ -1,5 +1,5 @@
 This code is to be used with swiftbot api and swiftbot robot to run the program.
-This code used basicc oop (inheritance) to call all classes in main Navigation class
+This code used basic oop (inheritance) to call all classes in main Navigation class
 This code fullfills all of the following requirements: 
                        Functional Requirements
 1)	Program should start with the scanning the QR Code and decoding commands.
